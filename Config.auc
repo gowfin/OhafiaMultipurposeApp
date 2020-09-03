@@ -1,0 +1,9 @@
+Ohafiamainserver;OhafiaMFBDB;sa;Admin123Server
+omfbict;OMFBDB;sa;Admin123Server
+Backupserver1;OhafiaMFBDB;sa;Admin123Server
+omfbserver;OhafiaMFBDB;sa;Admin123Server
+
+
+omfbserver;OhafiaMFBDB;sa;Admin123Server
+omfbict;OMFBDB;sa;Admin123Server
+
